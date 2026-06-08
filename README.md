@@ -11,7 +11,13 @@
 
 ### 🧠 What I Build
 
-I design and deploy **end-to-end AI systems** — from RAG pipelines and multi-agent orchestration to production ML services. My background in data analytics gives me a strong foundation in statistical rigor, which I now apply to evaluating and calibrating LLM outputs.
+I design and deploy end-to-end AI systems — from RAG pipelines and 
+multi-agent orchestration to production ML services. With a strong 
+academic foundation in Data Science and hands-on experience building 
+AI-powered business solutions — from financial risk sentiment systems 
+to IPO readiness analyzers — I specialize in translating real-world 
+business problems into end-to-end AI/ML applications that actually 
+work in production.
 
 ```text
 Focus Areas        →   GenAI Systems · Retrieval-Augmented Generation · MLOps
