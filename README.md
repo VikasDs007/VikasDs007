@@ -44,7 +44,6 @@ LLM and retrieval: OpenAI API, Groq (Llama 3), ChromaDB, pgvector, prompt engine
 
 | Project | What it does | Stack |
 |---|---|---|
-| 🏠 [**PropIntel**](https://github.com/VikasDs007/PropIntel) | Real estate assistant with a RAG pipeline over property documents and a tool-calling lead qualification agent. A person approves any reply that quotes a property or price. Includes evaluation sets (15 RAG questions, 12 agent scenarios), a cost and latency dashboard, JWT auth and a Twilio WhatsApp webhook. | FastAPI · ChromaDB · PostgreSQL · React · Docker |
 | 📊 [**AnalystAI**](https://github.com/VikasDs007/analystai) | Multi-agent data analysis app built for an OpenAI hackathon: cleans an uploaded CSV, Excel or JSON file, picks charts, writes a business report and answers questions about the data. | Python · Streamlit · OpenAI API |
 | 📈 [**Financial News Sentiment Analyzer**](https://github.com/VikasDs007/financial-news-sentiment-analyzer) | Dashboard that scores financial news sentiment (VADER) for global and Indian markets, with an LLM analyst you can question in plain English. | Python · Streamlit · Groq (Llama 3) |
 | 🧑‍💼 [**Intelligent Real Estate Assistant**](https://github.com/VikasDs007/intelligent_real_estate_assistant) | Tool for real estate agents: client and task tracking, property filtering and matching, and a chat assistant that can add notes and create follow-up tasks. | FastAPI · Streamlit · SQLite |
